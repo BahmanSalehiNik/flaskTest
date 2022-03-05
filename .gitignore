@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Skip to content
 Search or jump to…
 Pull requests
@@ -27,6 +28,8 @@ Latest commit 2645f74 2 minutes ago
  1 contributor
 129 lines (105 sloc)  1.76 KB
 
+=======
+>>>>>>> 2645f742a24560dde27368280f8b44d6cd986c64
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -156,6 +159,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+<<<<<<< HEAD
 © 2022 GitHub, Inc.
 Terms
 Privacy
@@ -169,3 +173,5 @@ Training
 Blog
 About
 Loading complete
+=======
+>>>>>>> 2645f742a24560dde27368280f8b44d6cd986c64
